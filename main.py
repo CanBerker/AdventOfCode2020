@@ -15,5 +15,11 @@ if __name__ == '__main__':
     # amounts = [[1, 1], [3, 1], [5, 1], [7, 1], [1, 2]]
     # print(f"day3-part1 result: {day3_part2(day3_input, amounts)}")
 
-    
+    # from day4 import *
+    # file1 = open('day4input.txt', 'r')
+    # lines = file1.readlines()
+    # mandatory_fields = ["byr", "iyr", "eyr", "hgt", "hcl", "ecl", "pid"] #cid is optional
+    # print(f"day4-part1 result: {day4_part1(lines, mandatory_fields)}")
+    # print(f"day4-part2 result: {day4_part2(lines, mandatory_fields)}")
 
+    pass
