@@ -58,10 +58,16 @@ if __name__ == '__main__':
     # # print(f"day10-part1 result: {day10_part1(lines)}")
     # print(f"day10-part2 result: {day10_part2(lines)}")
 
-    from day11 import *
-    file1 = open('day11input.txt', 'r')
+    # from day11 import *
+    # file1 = open('day11input.txt', 'r')
+    # lines = file1.readlines()
+    # print(f"day11-part1 result: {day11_part1(lines)}")
+    # print(f"day11-part2 result: {day11_part2(lines)}")
+
+    from day12 import *
+    file1 = open('day12input.txt', 'r')
     lines = file1.readlines()
-    print(f"day11-part1 result: {day11_part1(lines)}")
-    print(f"day11-part2 result: {day11_part2(lines)}")
+    print(f"day12-part1 result: {day12_part1(lines)}")
+    print(f"day12-part2 result: {day12_part2(lines)}")
 
     pass
